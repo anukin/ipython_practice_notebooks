@@ -11,3 +11,5 @@ In this dataset, airbnb have provided us with dataset of different listing inclu
 4. Does host listings count affect the review score?
 
 Please go through the notebook and let me know if something is off. 
+
+A funny blog post detailing motivation and methodology can be found [here](https://open.substack.com/pub/code2yugen/p/nobody-cares-if-you-have-strict-cancellation?r=2lvje&utm_campaign=post&utm_medium=web)
